@@ -148,7 +148,8 @@ Use GitHub Copilot to:
 - Scaffold REST/in-memory data services
 - Generate UI components: list, detail view, filters, and metrics
 - Implement state management and logic
-- Write unit tests and configure CI
+- Write unit tests
+- **Participants are free to choose any programming language**
 
 ---
 
