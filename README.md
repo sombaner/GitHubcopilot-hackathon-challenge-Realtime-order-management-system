@@ -144,7 +144,7 @@ Build a responsive front-end application that:
 
 Use GitHub Copilot to:
 
-- Parse ER/class diagrams into code models
+- **Use image capability to analyze ER/class diagrams into code models**
 - Scaffold REST/in-memory data services
 - Generate UI components: list, detail view, filters, and metrics
 - Implement state management and logic
